@@ -5,6 +5,34 @@
 body {
     background-color: var(--cor-de-fundo);
 }
-h1{
-    background-color: #f7f2f2;
+
+.cabecalho {
+    background-color: fuchsia;
 }
+
+.cabecalho-titulo {
+    font-size: 36px;
+    font-size: 700;
+    padding: 12xp;
+    text-align: center;
+
+}
+
+.cabecalho-menu {
+    background-color: bisque;
+}
+
+.cabecalho-manu-item {
+    display: block;
+    padding: 10px;
+    font-size: 24px;
+    text-decoration: none;
+    color: aqua;
+    text-align: center;
+    border-top: 1px solid;
+
+}
+     
+
+
+
