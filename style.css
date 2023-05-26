@@ -1,5 +1,7 @@
 :root{
-    --cor-de-fundo: rgb(77, 77, 90);
+    --cor-de-fundo: rgb(166, 166, 177);
+    --cor-cabecalho:rgb(240, 240, 243);
+
 }
 
 body {
@@ -7,32 +9,35 @@ body {
 }
 
 .cabecalho {
-    background-color: fuchsia;
+    background-color: rgb(139, 139, 143);
 }
 
 .cabecalho-titulo {
+    display: inline-block;
     font-size: 36px;
     font-size: 700;
-    padding: 12xp;
+    padding: 12px;
     text-align: center;
 
 }
 
 .cabecalho-menu {
-    background-color: bisque;
+    background-color: rgb(37, 39, 126);
 }
 
-.cabecalho-manu-item {
+.cabecalho-menu-item {
     display: block;
     padding: 10px;
     font-size: 24px;
     text-decoration: none;
-    color: aqua;
+    color: rgb(120, 156, 156);
     text-align: center;
     border-top: 1px solid;
 
 }
      
-
+.cabecalho-img {
+    width: 420px;
+}
 
 
