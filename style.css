@@ -40,4 +40,17 @@ body {
     width: 420px;
 }
 
+#burguer {
+    background-color: rgb(37, 39, 126);
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    }
+    #menu {
+    display: none;
+    }
+
+
+
 
